@@ -73,5 +73,30 @@ S.fn.init [prevObject: S.fn.init(1)]
 ```
 
 Also filter();
-https://api.jquery.com/filter/#filter-selector
+
+<br /> Traversing: https://api.jquery.com/category/traversing/filtering/
+<br /> https://api.jquery.com/filter/#filter-selector
+
+<br /> https://api.jquery.com/next/#next-selector
+<br /> https://api.jquery.com/nextAll/#nextAll-selector
+<br /> https://api.jquery.com/nextUntil/#nextUntil-selector-filter
+<br /> https://api.jquery.com/nextUntil/#nextUntil-element-filter
+
+<br /> https://api.jquery.com/first/#first
+<br /> https://api.jquery.com/first-child-selector/#first-child1
+
+<br /> https://api.jquery.com/prev/#prev-selector
+<br /> https://api.jquery.com/prevUntil/#prevUntil-selector-filter
+<br /> https://api.jquery.com/prevAll/#prevAll-selector
+<br /> https://api.jquery.com/next-adjacent-selector/#next-adjacent1
+
+<br /> https://api.jquery.com/children/#children-selector
+<br /> https://api.jquery.com/only-child-selector/#only-child1
+<br /> https://api.jquery.com/nth-child-selector/#nth-child1
+<br /> https://api.jquery.com/first-child-selector/#first-child1
+
+<br /> https://api.jquery.com/last/#last
+<br /> https://api.jquery.com/nth-last-of-type-selector/#nth-last-of-type1
+<br /> https://api.jquery.com/last-child-selector/#last-child1
+<br /> https://api.jquery.com/last-selector/#last1
 
