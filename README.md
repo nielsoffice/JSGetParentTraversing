@@ -31,6 +31,7 @@ JavaScript jQuery get parent from child traversing
     <div>3</div> 
   </div>
 
+ <!-- THIS IS NOT VISIBLE TO CONSOLE LOG BECAUSE NO CHILD SELECTED ! -->
   <div id="vvmain">
     <div id="ddxyz">
       <div id="xsschild1">1</div>  
