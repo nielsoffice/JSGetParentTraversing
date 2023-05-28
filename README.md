@@ -71,3 +71,7 @@ S.fn.init [prevObject: S.fn.init(1)]
  prevObject : S.fn.init [div#child1] 
  > [[Prototype]] : Object(0)
 ```
+
+Also filter();
+https://api.jquery.com/filter/#filter-selector
+
