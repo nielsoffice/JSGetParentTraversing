@@ -75,6 +75,7 @@ S.fn.init [prevObject: S.fn.init(1)]
 Also filter();
 
 <br /> Traversing: https://api.jquery.com/category/traversing/filtering/
+<br /> https://api.jquery.com/category/traversing/tree-traversal/
 <br /> https://api.jquery.com/filter/#filter-selector
 
 <br /> https://api.jquery.com/next/#next-selector
